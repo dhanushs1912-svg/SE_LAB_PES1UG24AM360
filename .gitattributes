@@ -1,0 +1,5 @@
+* text=auto
+*.pdf binary
+*.docx binary
+*.drawio text eol=lf
+*.md text eol=lf
