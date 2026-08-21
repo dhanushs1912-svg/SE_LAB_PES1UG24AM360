@@ -28,9 +28,12 @@ external service boundary.
 
 | # | Deliverable | File |
 |---|---|---|
-| 1 | Requirements Table — 5 FRs + 2 NFRs | [Requirements_Table.docx](Requirements_Table.docx) |
+| 1 | Requirements Table — 5 FRs + 2 NFRs | [Requirements_Table.docx](Requirements_Table.docx) · [PDF](Requirements_Table.pdf) |
 | 2 | UML Use-Case Diagram | [UseCase_Diagram.pdf](UseCase_Diagram.pdf) |
-| 3 | Use-Case Flow Specification | [UseCase_Flow_UC-01.docx](UseCase_Flow_UC-01.docx) |
+| 3 | Use-Case Flow Specification | [UseCase_Flow_UC-01.docx](UseCase_Flow_UC-01.docx) · [PDF](UseCase_Flow_UC-01.pdf) |
+
+The `.docx` files are the submitted Word deliverables. The PDF copies carry identical
+content and are provided because GitHub previews PDFs in the browser but cannot preview `.docx`.
 
 ---
 
